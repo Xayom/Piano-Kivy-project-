@@ -6,9 +6,9 @@ from kivy.uix.gridlayout import GridLayout
 from kivy.uix.button import Button
 from kivy.properties import Clock
 
-Key = ['q', 'w', 'e',
-       'r', 't', 'y',
-       'u', 'i', ]
+Key = ['1', '2', '3',
+       '4', '5', '6',
+       '7', '8', ]
 
 class Piano(GridLayout):
 
